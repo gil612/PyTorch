@@ -1,5 +1,5 @@
 # PyTorch
-## Comparing models EffiecientNet_BO and EfficientNetB2
+## Comparing models EfficientNet_BO and EfficientNetB2
 
 Running the models on a dataset of pictures (225 images for training and 75 for testing.
 dataloaders - [10%, 20%]
